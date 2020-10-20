@@ -33,5 +33,4 @@ steps:
   inputs:
     testRunner: VSTest
     testResultsFiles: '**/*.trx'
-    variables:
-  buildConfiguration: 'Release'
+  
